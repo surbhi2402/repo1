@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 First commit Priya
+=======
+First commit NirajSesan
+>>>>>>> 1d766522d9cd2d61b2d64a9eb097721904617756
 
