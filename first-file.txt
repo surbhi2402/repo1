@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 First commit
 editing in master
 <<<<<<< HEAD
@@ -6,6 +7,9 @@ editing in master
 =======
 3rd commit doing in vgbranch
 >>>>>>> vgbranch
+=======
+First Commit VikasChaudhary
+>>>>>>> 0a0c2728df3fe32a9b8f3ba0dc3fb2f961f43d11
 =======
 First commit NirajSesan
 
