@@ -1,4 +1,25 @@
+ HEAD
+hi hi
+=======
+<<<<<<< HEAD
+First Commit VikasChaudhary
+=======
+First commit NirajSesan
+
+>>>>>>> 1d766522d9cd2d61b2d64a9eb097721904617756
+>>>>>>> 0a0c2728df3fe32a9b8f3ba0dc3fb2f961f43d11
+=======
+hi niraj
+>>>>>>> cea47fbcbc3117245eb14b06d2f3cc66e798000b
+=======
 First Commit VikasChaudhary
 Hello
+<<<<<<< HEAD
+>>>>>>> 65cca32dbfc6ddb544ece53b86766c89b097e475
+=======
 abcd 
+<<<<<<< HEAD
 hello ttnd
+=======
+>>>>>>> 9acad5139bbc143bd82e8efc7ddab13b00e82673
+>>>>>>> c31a91858ea0647f0f299e924ad58b32e9f86172
