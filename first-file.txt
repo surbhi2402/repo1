@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 First commit Priya
 =======
 <<<<<<< HEAD
@@ -19,3 +20,7 @@ First commit NirajSesan
 >>>>>>> 1d766522d9cd2d61b2d64a9eb097721904617756
 
 >>>>>>> 1d766522d9cd2d61b2d64a9eb097721904617756
+=======
+First commit NirajSesan
+hi niraj
+>>>>>>> 9e79bae67a039a842f622e40ffe9837c9ebdd9f5
