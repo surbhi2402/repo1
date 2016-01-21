@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi hi
 =======
 <<<<<<< HEAD
@@ -12,3 +13,7 @@ First commit NirajSesan
 =======
 hi niraj
 >>>>>>> cea47fbcbc3117245eb14b06d2f3cc66e798000b
+=======
+First Commit VikasChaudhary
+Hello
+>>>>>>> 65cca32dbfc6ddb544ece53b86766c89b097e475
