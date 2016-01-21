@@ -1,3 +1,7 @@
 First commit
 editing in master
+<<<<<<< HEAD
 4th commit is done in master
+=======
+3rd commit doing in vgbranch
+>>>>>>> vgbranch
